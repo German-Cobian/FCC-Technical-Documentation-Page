@@ -1,0 +1,43 @@
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
+#navHeader{
+    color: white;
+    font-weight: 700;
+}
+
+code {
+    font-family: Consolas,"courier new";
+    color: crimson;
+    background-color: #f1f1f1;
+    padding: 2px;
+    font-size: 105%;
+  }
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#main-doc{
+    text-align: center;
+    background-color: azure;
+ 
+}
+
+.header-section{
+    font-size: large;
+    font-style: oblique;
+    background-color: darkgray;
+}
+
+hr{
+    padding-bottom: 10px;
+}
+
+.main-section header {
+    font-weight: 400;
+    font-size: 1.5em;
+    color: blue;
+}
